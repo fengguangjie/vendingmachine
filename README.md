@@ -1,3 +1,4 @@
+# vendingmachine
 Prerequisite:
 	Install Java 8 and Maven
 
