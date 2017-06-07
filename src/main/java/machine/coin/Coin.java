@@ -4,7 +4,8 @@ public enum Coin {
 	PENCE10(0.1f),
 	PENCE20(0.2f),
 	PENCE50(0.5f),
-	POUND(1.0f);
+	POUND(1.0f),
+	UNKNOWN(-1f);
 	
 	private final float value;
 	private final int intValue;
